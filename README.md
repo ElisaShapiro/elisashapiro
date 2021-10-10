@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi 👋 
+I'm Elisa, a full stack software engineer in NYC and a recent Flatiron School graduate. 
+
+🔧 Languages and Tools:
+- Javascript, React, Ruby on Rails, HTML5, CSS, Sinatra, SQL, Active Record, Postgres, Heroku. 
+
+📫 Connect:
+- [LinkedIn](www.linkedin.com/in/elisa-shapiro)
+- [Email](mailto:elisashapiro@gmail.com?subject=Hi% "Hi from Github!")
+- [Medium](https://medium.com/@elisashapiro)
 
 <!--
 **ElisaShapiro/elisashapiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
