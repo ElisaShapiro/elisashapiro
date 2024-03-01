@@ -7,9 +7,11 @@
 I'm Elisa, a full stack software engineer in NYC and a recent Flatiron School graduate. 
 
 🔧 Languages and Tools:
-- Javascript, React, Ruby on Rails, HTML5, CSS, Sinatra, SQL, Active Record, Postgres, Heroku. --!>
+- Javascript, React, Ruby on Rails, HTML5, CSS, Sinatra, SQL, Active Record, Postgres, Heroku. 
 
-- [Medium](https://medium.com/@elisashapiro)
+- [Medium](https://medium.com/@elisashapiro) --!>
+
+
 
 <!--
 **ElisaShapiro/elisashapiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
